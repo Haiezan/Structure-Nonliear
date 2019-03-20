@@ -1,6 +1,6 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
-1.1	问题：如何安装SAUSAGE软件？
+#问题：如何安装SAUSAGE软件？
 解答：
 （1）	找到PKPM安装光盘，或者从PKPM官网下载并安装最新PKPM程序。
 https://www.pkpm.cn/index.php?m=content&c=index&a=lists&catid=35
